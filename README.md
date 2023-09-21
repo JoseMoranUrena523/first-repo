@@ -30,12 +30,15 @@ bit to get it working like it should.  
 
 ### Django Superuser: 
 Username: test 
+
 Password: test123@
 
 ### Djoser User:
  Username: djoseruser
+ 
  Password: test123@  
 
 ### MySQL Installation: 
 Username: root 
+
 Password: courseraPassword
