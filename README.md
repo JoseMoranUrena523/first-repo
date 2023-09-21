@@ -14,6 +14,13 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 
+If you are trying to grade my project, here are the endpoints for you to test:
+
+```
+/api/menu-items (GET/POST/DELETE/PUT)
+/api/bookings/tables (GET/POST)
+```
+
 Note: Meta’s Documentation was a bit confusing so I had to play around with it a 
 bit to get it working like it should.  
 
