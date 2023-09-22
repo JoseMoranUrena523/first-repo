@@ -7,6 +7,7 @@ commands below to setup the project (assuming you are in the workspace directory
 
 ```
 source bin/activate
+pip3 install mysqlclient django django_rest_framework djoser
 python3 manage.py runserver
 ```
 
